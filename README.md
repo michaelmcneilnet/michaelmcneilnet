@@ -1,9 +1,7 @@
-- 👋 Hi, I am Michael McNeil, a software engineering consultant in Scotland.
-- 👀 I am a full-stack developer who specialises in writing high-performing and scalable applications using .NET Core (and I 💖 using Microsoft Orleans for this!).  I have a keen interest in DevOps and automating as much of the software delivery lifecycle as possible.
-- 🌱 I also write a lot of React and recently I've been working in Angular.
-- 🌍 You can browse my blog at https://www.michaelmcneil.net/ and contact me from there.
+I'm Michael McNeil, a software engineering consultant based in Scotland.
 
-<!---
-michaelmcneilnet/michaelmcneilnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work across the full stack, mostly building high-performance, scalable systems on .NET, often with Microsoft Orleans. I care a lot about DevOps and automating as much of the delivery pipeline as I can.
+
+On the frontend I work with both React and Angular.
+
+I write at [michaelmcneil.net](https://www.michaelmcneil.net/), which is also the best place to get in touch.
